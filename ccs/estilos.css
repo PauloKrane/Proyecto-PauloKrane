@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(0, 119, 255);
+    background-image: url("/Imagenes/Desarrollo-Web-Dibdata.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    background-position: center;
+    background-size: cover;
+}
+
+.flex-contenedor{
+    display: flex;
+
+    
+}
