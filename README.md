@@ -1,4 +1,4 @@
 # Proyecto-PauloKrane
 Aprendiendo desarrollo web
 creando pagina de presentacion 
-de Paulo
+de Paulo Daniel k.
