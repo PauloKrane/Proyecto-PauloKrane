@@ -1,3 +1,3 @@
 # Proyecto-PauloKrane
 Aprendiendo desarrollo web
-Etapa de sesarollo
+creando pagina de presentacion 
